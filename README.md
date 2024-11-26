@@ -1,2 +1,1 @@
-# New-Repo-example
-This is my new repo
+ This is what you have to do in the read me
